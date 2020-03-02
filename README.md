@@ -9,4 +9,3 @@ Copy board folder to `<PATH_TO_VIVADO>/<vivado_version>/data/boards/board_files/
 	
 ## Notes
 This project based on [Vivado Board Files for Digilent FPGA Boards](https://github.com/Digilent/vivado-boards).
-# vivado-boards
